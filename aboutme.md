@@ -16,7 +16,7 @@ daredevil, and I am the brain. However, more about me:
 - I am an avid learner of all things Tech.
 - I see challenges as solutions waiting to be solved.
 - I thrive by myself, but excel in a team environment.
-- I love people, but appreciate alone time as well.
+- I love people, but appreciate the silence of solitary.
 
 
 ## this is a header
