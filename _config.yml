@@ -20,9 +20,9 @@ description: A collection of Data Science projects
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Bio: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - My Hometown newspaper: "https://www.moberlymonitor.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
 
@@ -69,9 +69,9 @@ author:
 social-network-links:
   rss: true
   email: "robinsonjason761@gmail.com"
-  facebook: deanattali
-  github: techthumb1
-  twitter: jasonrob_
+  facebook: jarobinson12@facebook.com
+  github: techthumb1@github.com
+  twitter: jasonrob_@twitter.com
 #  reddit: yourname
   linkedin: jasrobinson12
 #  xing: yourname
