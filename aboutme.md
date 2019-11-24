@@ -3,12 +3,12 @@ layout: page
 title: Jason Robinson
 subtitle: Business Analyst/Data Scientist
 ---
-- BSBA in General Management
-   Human Resource Management
+- BSBA in General Management-
+   Human Resource Management-
    Finance
 - Lambda School Data Science program 2019
 
-##About Me
+## About Me
 
 My name is Jason Robinson. I am a Gemini, so I often 
 blame my twin for setting me on my current path, he's the
