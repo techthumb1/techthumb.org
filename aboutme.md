@@ -13,7 +13,7 @@ subtitle: Business Analyst/Data Scientist
 My name is Jason Robinson. I am a Gemini, so I often 
 blame my twin for setting me on this relentless journey, 
 he's the daredevil, and I am the brain. However, more about me:
-- I am an avid learner of all things Tech.
+- I am an avid learner of all things, emphasis on Technology.
 - I see challenges as solutions waiting to be solved.
 - I thrive by myself, but excel in a team environment.
 - I love people, but appreciate the silence of solitary.
