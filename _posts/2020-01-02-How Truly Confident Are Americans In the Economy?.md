@@ -1,1 +1,4 @@
+bigimg: /img/high_dollar.jpg
+tags: [pce, spending, consumer]
+
 THE ECONOMY!!! Wow, talk about word of the day, more like word of the decade. The economy, other than in times of war, is always one, if not the top, concern of many, if not all adult Americans. Individuals, families, businesses, and so much more rely heavily on a robust economy, and although among the consensus there is no debate on whether the American economy is succeeding in providing a good number of jobs added, lowest unemployment rates, and a surging market but as , are the majority of American households experiencing financial empowerment?
