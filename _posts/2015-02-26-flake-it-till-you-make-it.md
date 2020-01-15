@@ -1,11 +1,9 @@
 ---
 layout: post
-title: With the Robust Economy, Are Americans Spending More?
-bigimg: /img/path.jpg
+title: With the Growing Economy, Are Americans Spending More?
+bigimg: /img/high_dollar.jpg
 tags: [PCE, spending]
 ---
 
 
 
-
-![road](/img/path.jpg)
