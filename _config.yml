@@ -12,7 +12,7 @@ description:An Examination of the Rise to Being:
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://techthumb.org"
+url: "https://jasonsrobinson.com"
 
 # baseurl should be an empty string
 baseurl: ""
@@ -25,7 +25,7 @@ navbar-links:
   Resources:
     - My Hometown newspaper: "https://www.moberlymonitor.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://techthumb.org"
+  Author's home: "http://jasonsrobinson.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "techthumb.org"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "jasonsrobinson.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
