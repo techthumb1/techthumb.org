@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is High Consumer Confidence, represented by Increases in Consumer Spending?
+title: What Are The Top 5 States Experiencing An Increase In Consumer Spending?
 bigimg: /img/high_dollar.jpg
 tags: [pce, spending, consumer]
 ---
