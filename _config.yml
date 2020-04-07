@@ -12,7 +12,7 @@ description:An Examination of the Rise to Being:
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://jasonsrobinson.com"
+url: "http://jasonsrobinson.com"
 
 # baseurl should be an empty string
 baseurl: ""
@@ -70,7 +70,7 @@ author:
 social-network-links:
   rss: true
   email: "robinsonjason761@gmail.com"
-  facebook: jarobinson12@facebook.com
+# facebook: jarobinson12@facebook.com
   github: techthumb1@github.com
   twitter: jasonrob_@twitter.com
 #  reddit: yourname
