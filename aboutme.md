@@ -6,7 +6,7 @@ subtitle: Business Analyst/Data Scientist
 - BSBA in General Management-
    Human Resource Management-
    Finance
-- Lambda School Data Science program 2019
+- Lambda School Data Science program 2021
 
 ## About Me
 
@@ -25,10 +25,31 @@ Leader
 - Department Head responsible for staff of 30 employees.
 - Strategy design and implementation.
 
-Data Wrangler
+Data Exploration
 - Feature Engineering
 - Exploratory Analysis
 - Explanatory Analysis
+
+Machine Learning
+- Predictive Analysis
+- Regression and Classification
+- Supervised Learning
+
+Software Engineering
+- Flask
+- REST API
+- PostGres
+
+Deep Learninig
+- RNN and CNN
+- Keras
+- PyTorch
+
+Algorithms and Data Structures
+- Binary Search Tree
+- Queues and Stacks
+- Depth First Search
+
 
 ## More avatar pics
 
