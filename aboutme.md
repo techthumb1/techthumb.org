@@ -3,10 +3,10 @@ layout: page
 title: Jason Robinson
 subtitle: Business Analyst/Data Scientist
 ---
-- BSBA in General Management-
+- Lambda School Data Science program 2021
+- BSBA in Business Management-
    Human Resource Management-
    Finance
-- Lambda School Data Science program 2021
 
 ## About Me
 
@@ -16,14 +16,12 @@ he's the daredevil, and I am the brain. However, more about me:
 - I am an avid learner of all things, emphasis on Technology.
 - I see challenges as solutions waiting to be solved.
 - I thrive by myself, but excel in a team environment.
-- I love people, but appreciate the silence of solitary.
+- I love people, but appreciate the silence of thought.
 
 
 ## Skills
 
 Leader
-- Department Head responsible for staff of 30 employees.
-- Strategy design and implementation.
 
 Data Exploration
 - Feature Engineering
